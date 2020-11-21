@@ -580,7 +580,7 @@ See [Motivation](https://github.com/kubernetes/enhancements/blob/master/keps/sig
 要实现更细粒度的控制，你可以设置拓扑分布约束来将 Pod 分布到不同的拓扑域下，
 从而实现高可用性或节省成本。这也有助于工作负载的滚动更新和平稳地扩展副本规模。
 有关详细信息，请参考
-[动机](https://github.com/kubernetes/enhancements/blob/master/keps/sig-scheduling/20190221-pod-topology-spread.md#motivation)文档。
+[动机](wn)文档。
 
 <!--
 ## Known Limitations
